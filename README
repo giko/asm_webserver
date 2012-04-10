@@ -1,0 +1,6 @@
+To compile you need NASM to be installed;
+For win32:
+	1. Open Visual Studio Command Prompt (2010)
+	2. cd to project folder
+	3. nmake first.exe
+	4. Done!
